@@ -1,1 +1,1 @@
-i created Gethib for my final year of my course work at University of west London. this is specifically made for Database course work.
+I created a GitHub repository for my final year coursework at the University of West London. This was specifically made for my Database module.
